@@ -1,5 +1,5 @@
-""" 
-This is an example file of the environment variables you should 
+"""
+This is an example file of the environment variables you should
 have set in the env.py file of your project to run it locally.
 """
 import os
